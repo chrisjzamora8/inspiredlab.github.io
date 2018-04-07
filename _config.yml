@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: [Inspired Software Lab]
+description: [{learn|experience|apply|practice}@blackhawk.edu]
+logo: [images/inspiredlab1logo.jpg]
+show_downloads: [false]
+#google_analytics: [trackingID]
