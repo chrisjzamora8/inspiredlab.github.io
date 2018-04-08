@@ -1,1 +1,7 @@
+title: Inspired Lab
+description: learn experience apply practice
+logo: /images/logo.png
+show_downloads: true
 theme: jekyll-theme-minimal
+
+#google_analytics: [trackingID]
