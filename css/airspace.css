@@ -25,6 +25,10 @@ h5,
 h6 {
   font-family: 'Roboto', sans-serif;
 }
+/*-- Class to hide h1 tag to keep SEO info--*/
+h1.hidden {
+  visibility: hidden;
+}
 h2 {
   font-size: 30px;
   font-weight: 400;
