@@ -21,6 +21,8 @@ url: "http://inspiredlab.github.io" # the base hostname & protocol for your site
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+author: Federico Bassetti
+email: fede@niu.edu
 
 # Build settings
 markdown: kramdown
