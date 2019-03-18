@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: inspir.ed lab
+title: inspired lab
 subtitle: "A research space for experiential learning in information technology"
 url: "http://inspiredlab.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
