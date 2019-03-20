@@ -27,8 +27,8 @@ email: fede@niu.edu
 # Build settings
 markdown: kramdown
 
-# Google analytics
-ga_tracking_id: "UA-136683210-1"
+# Google analytics Tracking ID
+google_analytics: "UA-136683210-1"
 
 # Category descriptions (for archive pages)
 descriptions:
