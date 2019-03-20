@@ -261,10 +261,16 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 600;
   margin-bottom: 30px;
 }
-#feature p {
-  color: #8d8f92;
+/* First paragraph after h2 is lighter */
+#feature h2+p {
+  color: #7B7B7B;
   margin-bottom: 20px;
 }
+#feature p {
+  color: #525252;
+  margin-bottom: 20px;
+}
+
 #feature .btn-view-works {
   background: #655E7A;
   color: #fff;
