@@ -12,6 +12,8 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+plugins:
+  - jekyll-feed
 
 # Site settings
 title: inspired lab
